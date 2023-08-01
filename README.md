@@ -1,11 +1,19 @@
-### Hi there 👋 I'm Sumit Patel
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=s-mtGhub&left_color=green&right_color=red)
+# Hi there 👋 I'm Sumit Patel
+## A passionate MERN Stack developer and CP enthusiast from India.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=s-mtGhub.visitor-badge&left_color=green&right_color=red)
                 
 
-
 - 👨🏻‍💻 I’m a 4th-year Mathematics & Computing Undergrad @ IIT Kharagpur
-- 🌱 I’m currently learning MERN stack development
+- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me: patelsumit.1652002@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "Competitive coder by day, web developer by night. Solving algorithms in the morning and building sites at dusk!"
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-patel-9111bb203/)[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit33338631)
+
+
+## 🛠 Skills
+C/C++, Node-JS, React-JS, HTML, CSS, MongoDB, MySQL, Firebase...
 
