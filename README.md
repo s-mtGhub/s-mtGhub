@@ -1,6 +1,10 @@
 # Hi there 👋 I'm Sumit Patel
 ## A passionate MERN Stack developer and CP enthusiast from India.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=s-mtGhub.visitor-badge&left_color=green&right_color=red)
+//![visitors](https://visitor-badge.glitch.me/badge?page_id=s-mtGhub.visitor-badge&left_color=green&right_color=red)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-mtGhub&label=Profile%20views&color=0e75b6&style=flat" alt="s-mtGhub" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-mtGhub" alt="s-mtGhub" /></a> </p>
+
                 
 
 - 👨🏻‍💻 I’m a 4th-year Mathematics & Computing Undergrad @ IIT Kharagpur
