@@ -9,7 +9,7 @@
 
                 
 
-- 👨🏻‍💻 I’m a 4th-year Mathematics & Computing Undergrad @ IIT Kharagpur
+- 👨🏻‍💻 I’m a 5th-year Mathematics & Computing Undergrad @ IIT Kharagpur
 - 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me: patelsumit.1652002@gmail.com
 - ⚡ Fun fact: "Competitive coder by day, web developer by night. Solving algorithms in the morning and building sites at dusk!"
