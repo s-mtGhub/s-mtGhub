@@ -10,7 +10,6 @@
                 
 
 - 👨🏻‍💻 I’m a SDE @ Meesho
-- 🌱 I’m currently learning Cloud Computing
 - 📫 How to reach me: patelsumit.1652002@gmail.com
 - ⚡ Fun fact: "Competitive coder by day, web developer by night. Solving algorithms in the morning and building sites at dusk!"
 
